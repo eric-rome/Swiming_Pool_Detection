@@ -15,20 +15,20 @@ Proyecto colaborativo desarrollado como parte de la asignatura de Visión por Co
 
 ## 📌 Descripción
 
-- Procesado de imágenes con NDVI para eliminar obstáculos visuales y resaltar piscinas.  
-- Implementación de detectores clásicos (HSV+Canny, HSV+Mask).  
-- Entrenamiento de YOLOv8 sobre imágenes normales y procesadas (NDVI).  
-- Comparación de resultados mediante IoU y métricas de precisión/recall.  
-- Pruebas en imágenes, lotes de datos y vídeos.
+- Procesado de imágenes con NDVI para eliminar obstáculos visuales y resaltar piscinas  
+- Implementación de detectores clásicos (HSV+Canny, HSV+Mask)  
+- Entrenamiento de YOLOv8 sobre imágenes normales y procesadas (NDVI)  
+- Comparación de resultados mediante IoU y métricas de precisión/recall  
+- Pruebas en imágenes, lotes de datos y vídeos
 
 ---
 
 ## 📁 Contenido del proyecto completo
 
-- Notebooks de entrenamiento y predicción (`yolo_ultralytics*.ipynb`)
-- Scripts de preprocesado (`NDVI.py`, `generate_proc_img.py`, `old_school.py`)
-- Scripts de clasificación y verificación de datasets
-- Resultados de los entrenamientos en `runs/`
+- Notebooks de entrenamiento y predicción (`yolo_ultralytics*.ipynb`)  
+- Scripts de preprocesado (`NDVI.py`, `generate_proc_img.py`, `old_school.py`)  
+- Scripts de clasificación y verificación de datasets  
+- Resultados de los entrenamientos en `runs/`  
 - Bases de datos en `DATABASE/`
 
 ⚠️ Debido al gran tamaño de los datos y modelos entrenados, este repositorio no incluye todos los archivos.
@@ -37,12 +37,12 @@ Proyecto colaborativo desarrollado como parte de la asignatura de Visión por Co
 
 ## 📎 Repositorio completo
 
-🔗 [Ver el repositorio original completo en GitHub]([https://github.com/tu-otro-usuario/Swimming_Pool_Detection](https://github.com/WilliamVivs/Swiming_Pool_Detection.git))
+🔗 [Ver el repositorio original completo en GitHub](https://github.com/WilliamVivs/Swiming_Pool_Detection.git)
 
 Aquí encontrarás:
-- Todo el código fuente
-- Los notebooks completos
-- Las bases de datos usadas
+- Todo el código fuente  
+- Los notebooks completos  
+- Las bases de datos usadas  
 - Los modelos entrenados y métricas de evaluación
 
 ---
