@@ -37,7 +37,7 @@ Proyecto colaborativo desarrollado como parte de la asignatura de Visión por Co
 
 ## 📎 Repositorio completo
 
-🔗 [Ver el repositorio original completo en GitHub](https://github.com/tu-otro-usuario/Swimming_Pool_Detection)
+🔗 [Ver el repositorio original completo en GitHub]([https://github.com/tu-otro-usuario/Swimming_Pool_Detection](https://github.com/WilliamVivs/Swiming_Pool_Detection.git))
 
 Aquí encontrarás:
 - Todo el código fuente
